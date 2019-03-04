@@ -15,6 +15,7 @@
   height: 100vh;
   background-image: url(/media/text-grad.png);
   background-position: bottom;
+  background-repeat: no-repeat;
 }
 
 #logo {
