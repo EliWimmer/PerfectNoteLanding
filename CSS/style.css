@@ -48,7 +48,7 @@
 }
 
 #nl-prompt {
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   font-size: 1.2rem;
   text-align: center;
   padding-left: 3rem;
@@ -128,7 +128,7 @@ form {
       }
       
       #nl-prompt {
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
         font-size: 1em;
         text-align: center;
       }
